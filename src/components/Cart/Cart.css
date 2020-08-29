@@ -1,0 +1,9 @@
+.cart{
+    text-align:center;
+    padding: 4%;
+    background-color:red;
+    color:white;
+    height: 150px;
+    width: 100px;
+    margin:20px auto;
+}
